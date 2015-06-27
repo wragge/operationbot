@@ -2,6 +2,6 @@
 
 See: https://twitter.com/operationbot
 
-Tweets national security project names based on a random selection words.
+Tweets national security project names based on a random selection of words.
 
-Protecting Australia from meaning.
+Boldly protecting Australia from meaning.
